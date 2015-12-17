@@ -13,3 +13,5 @@ Class_05 [面向对象(基础篇)](./Class_05)
 Class_06 [面向对象(高级篇)](./Class_06)
 
 Class_07 [Java异常的捕获与处理](./Class_07)
+
+Class_08 [包及访问控制权限(附Java命名规范)](./Class_08)
